@@ -44,3 +44,4 @@ plt.title('MLP Training Convergence Curve')
 plt.grid(True)
 plt.savefig('../../result/stage_2_result/MLP_convergence_curve.png')
 plt.show()
+
